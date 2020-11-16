@@ -1,13 +1,3 @@
-<div align="center">
-<h2>Hey there <img src="https://github.com/romangoddess/romangoddess/blob/master/gifs/Hi.gif" width="30px">, My Name Is Utopia</h2>
-
-<div align="center" width="50">
-
-<code>I'm an IT student. 😎</code><br>
-
-<code>I love programming. ❤</code><br>
-
-<code>I spend my free time on watching anime. 😇</code>
 
 <img src="https://github.com/romangoddess/romangoddess/blob/master/gifs/coding.gif" alt="coding ?">
 
@@ -18,3 +8,8 @@
 <br><img src="https://gpvc.arturio.dev/romangoddess" alt="Profile views">
 
 </div>
+
+
+![RomanGoddess github stats](https://github-readme-stats.vercel.app/api?username=romangoddess&show_icons=true&theme=midnight-purple)
+- ![Profile views](https://gpvc.arturio.dev/Starkgang)
+- [![GitHub followers](https://img.shields.io/github/followers/romangoddess.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RomanGoddess?tab=followers)
